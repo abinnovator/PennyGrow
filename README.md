@@ -2,7 +2,18 @@
 
 <img src='/assests/685shots_so.png'>
 
-<p><strong>Penny Grow</strong> is a personal finance app designed to help users track their savings, set goals, and grow their wealth over time. The app offers a simple and intuitive interface to manage your finances and visualize your progress.</p>
+<p><strong>PennyGrow:</strong> Your Ultimate Finance Companion for Students
+
+Managing money can be challenging, especially for students like us who are just starting to handle finances, often in the form of pocket money. That’s why I created PennyGrow, a personalized finance app designed specifically for students.
+
+PennyGrow isn’t just an app—it’s a tool that empowers students to understand, track, and grow their financial literacy from a young age. To make this app truly relevant, I started by asking my classmates (and myself) what challenges we face when managing our pocket money. The insights I gathered shaped the features and functionality of PennyGrow, ensuring it addresses the real needs of students.
+
+With PennyGrow, students can:
+
+  Track Spending: Know where your money goes and develop smart spending habits.
+  Set Savings Goals: Plan and save for what matters most, whether it’s a new gadget, a book, or a dream experience.
+
+PennyGrow is built with simplicity and ease of use in mind, so even beginners can start taking control of their finances effortlessly. I believe this app can make a difference in how students perceive and manage their money.</p>
 
 <h2>Features</h2>
 <ul>
